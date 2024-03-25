@@ -1,0 +1,72 @@
+/* style.css */
+
+/* Resetting default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Setting background color and font family */
+body {
+    background-color: #f0f0f0; /* Change this to your desired background color */
+    font-family: Arial, sans-serif; /* Change this to your desired font */
+}
+
+/* Styling the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Styling the main content */
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Styling links */
+a {
+    color: #007bff; /* Change this to your desired link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+/* Styling paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Styling lists */
+ul, ol {
+    margin-left: 20px;
+}
+
+/* Styling list items */
+li {
+    margin-bottom: 5px;
+}
+
+/* Styling images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
